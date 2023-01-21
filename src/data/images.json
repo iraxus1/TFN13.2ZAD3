@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "rating": 1,
+    "author": "John Daniels",
+    "date": "2019-01-01",
+    "details": "some details",
+    "link": "https://picsum.photos/200/300"
+  },
+  {
+    "id": "2",
+    "rating": 3,
+    "author": "John Doe",
+    "date": "2014-01-01",
+    "details": "some details",
+    "link": "https://picsum.photos/200/300"
+  },
+  {
+    "id": "3",
+    "rating": 4,
+    "author": "John Doe",
+    "date": "2013-01-01",
+    "details": "some details",
+    "link": "https://picsum.photos/200/300"
+  },
+  {
+    "id": "4",
+    "rating": 0,
+    "author": "Ola Daniels",
+    "date": "2012-01-01",
+    "details": "some details",
+    "link": "https://picsum.photos/200/300"
+  },
+  {
+    "id": "5",
+    "rating": 2,
+    "author": "Aleksandra Doe",
+    "date": "2011-01-01",
+    "details": "some details",
+    "link": "https://picsum.photos/200/300"
+  }
+]
